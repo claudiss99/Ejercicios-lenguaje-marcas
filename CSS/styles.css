@@ -1,0 +1,50 @@
+/* Estilo para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para los encabezados */
+h1, h2, h3 {
+    color: #555;
+}
+
+/* Estilo para enlaces */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Estilo para contenedores */
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilo para la barra de navegación */
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+/* Estilo para los elementos de la barra de navegación */
+.navbar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.navbar ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+
